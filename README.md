@@ -11,6 +11,7 @@
 ### Techs
 
 ##### I enjoy
+<p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square" />
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square" />
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat-square" />
@@ -18,6 +19,9 @@
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
 <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
 <img alt="D3" src="https://img.shields.io/badge/D3-F9A03C?logo=d3.js&logoColor=white&style=flat-square" />
+</p>
 
 ##### I'm currently learning
+<p>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square" />
+</p>
