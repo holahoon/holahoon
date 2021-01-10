@@ -1,11 +1,11 @@
 ### 👋 Hey there, I'm David
 
 ### I
-- 🧑🏻‍💻 am a **front-end developer** 🕸
+- 🧑🏻‍💻 am a **front-end developer** 🕸 at **[Inforex](http://www.inforex.co.kr/2016/main.html)**
 - ✈️ have recently moved from **Georgia, US🇺🇸** ➡ **Republic of Korea🇰🇷**
-- 🏪 am currently open for **new opportunities** 🤙
 - 🙇🏻 am currently **learning everything 🙌**
 - 😁 can't live without 🍗 🍺 🍣
+<!-- - 🏪 am currently open for **new opportunities** 🤙 -->
 
 👉 [![Gmail badge](https://img.shields.io/badge/hola.hoon@gmail-D14836?logo=gmail&logoColor=white&style=flat-square&mailto:hola.hoon@gmail.com)](mailto:hola.hoon@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-holahoon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/holahoon/)](https://www.linkedin.com/in/holahoon/)
 ### Techs
