@@ -2,32 +2,10 @@
 
 ### I
 
-- 🧑🏻‍💻 am a **front-end developer** 🕸 at **[3billion](https://3billion.io/)**
-- ✈️ have recently moved from **Georgia, US🇺🇸** ➡ **Republic of Korea🇰🇷**
+- 🧑🏻‍💻 am a **web developer** who loves to try out new things 🕸
+- 💡 am currently looking for **new opportunities** 🤙
+- ✈️ am currently residing in **Republic of Korea** 🇰🇷
 - 🙇🏻 am currently **learning everything 🙌**
 - 😁 can't live without 🍗 🍺 🍣
-<!-- - 🏪 am currently open for **new opportunities** 🤙 -->
 
 👉 [![Gmail badge](https://img.shields.io/badge/hola.hoon@gmail-D14836?logo=gmail&logoColor=white&style=flat-square&mailto:hola.hoon@gmail.com)](mailto:hola.hoon@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-holahoon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/holahoon/)](https://www.linkedin.com/in/holahoon/)
-
-### Techs
-
-##### I enjoy
-
-<p>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square" />
-<img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square" />
-<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat-square" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
-<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
-<img alt="D3" src="https://img.shields.io/badge/D3-F9A03C?logo=d3.js&logoColor=white&style=flat-square" />
-</p>
-
-##### I'm interested in
-
-<p>
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white&style=flat-square" />
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-</p>
