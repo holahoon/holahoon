@@ -1,5 +1,5 @@
 ## 👋 Hey there, I'm David(DK)
-I'm A **fullstack web developer** with a passion for crafting immersive user interfaces and delivering a friendly user experience
+I'm A **Web developer** with a passion for crafting immersive user interfaces and delivering a friendly user experience
 
 - 💡 Currently writing code at **Opus Logica** as a **Frontend engineer**
 - 📕 Currently learning and having fun with **Ruby**. Yes, Ruby!
