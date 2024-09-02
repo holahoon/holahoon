@@ -1,9 +1,7 @@
 ## 👋 Hey there, I'm David(DK)
-I'm A **Web developer** with a passion for crafting immersive user interfaces and delivering a friendly user experience
+I'm a **fullstack developer** with love and passion for crafting beautiful user interfaces and delivering a friendly user experience.
 
-- 💡 Currently writing code at **Opus Logica** as a **Software engineer**
-- 📕 Currently learning and having fun with **Go**.
-- 🧑🏻‍💻 Currently building a side project with **Next.js** (coming soon)
-- 📍 Currently residing in **Buford, Georgia, USA**
-
-I'm always open for a chat!
+- 🧑🏻‍💻 Writing code at **Opus Logica** as a **Software engineer**
+- 🚀 Building and maintaining a web application for a church organization
+- 📕 Learning and having fun with **Go**
+- 📍 Residing in **Buford, Georgia, USA**
