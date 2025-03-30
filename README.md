@@ -1,6 +1,5 @@
-## 👋 Hey there, I'm David(DK)
-Enjoy solving real-world problems with code and making a positive impact.
+**Software Engineer | TypeScript & Go Enthusiast**
 
 - 🧑🏻‍💻 Working at **Opus Logica** as a **Software Engineer**
-- 📍 Residing in **Atlanta, Georgia, USA**
+- 🌏 Residing in **Atlanta, Georgia, USA**
 - ✉️ Always open for a chat
