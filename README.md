@@ -1,5 +1,5 @@
 **Software Engineer | TypeScript & Go Enthusiast**
 
-- 🧑🏻‍💻 Working at **Opus Logica** as a **Software Engineer**
+- 🧑🏻‍💻 Searching for my next journey
 - 🌏 Residing in **Atlanta, Georgia, USA**
 - ✉️ Always open for a chat
