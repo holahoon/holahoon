@@ -1,5 +1,5 @@
 **Software Engineer | TypeScript & Go Enthusiast**
 
 - 🧑🏻‍💻 Searching for my next journey
-- 🌏 Residing in **Atlanta, Georgia, USA**
+- 🌏 Residing in **New York, NY, USA**
 - ✉️ Always open for a chat
